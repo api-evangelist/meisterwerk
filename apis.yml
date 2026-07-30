@@ -1,8 +1,32 @@
 aid: meisterwerk
 name: Meisterwerk
-description: Meisterwerk is a company surfaced as a portfolio company of speedinvest and added to the
-  API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: >-
+  Meisterwerk is a modular all-in-one SaaS platform for German-speaking (DACH)
+  trades and craft businesses (Handwerk), built by MEISTERWERK APP GmbH in
+  Berlin. It gives small and medium craft firms (1-50 employees) a single
+  operating system for job and resource scheduling (Einsatzplanung), a native
+  mobile app for iOS, Android and Windows, chronological job documentation with
+  photos and chat, quoting and invoicing with e-invoice support, EU-compliant
+  mobile time tracking with GPS, digital forms and signatures, absence/holiday
+  planning, and configurable workflows. AI features (planning assistant,
+  speech-to-text documentation and time entry, and the standalone "Frag Maxi"
+  phone assistant) are built in. It integrates with lexoffice, sevdesk, bexio
+  and orgaMAX accounting software; a public open interface (Offene Schnittstelle)
+  is announced but not yet publicly documented. Over 8,000 active users; data is
+  hosted on servers in Germany and the platform is GDPR (DSGVO) compliant.
 url: https://raw.githubusercontent.com/api-evangelist/meisterwerk/refs/heads/main/apis.yml
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://eu.meisterwerk.app/icon.png
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
@@ -11,12 +35,49 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-20'
 tags:
 - Company
+- SaaS
+- Trades
+- Handwerk
+- Field Service
+- Scheduling
+- Time Tracking
+- Invoicing
+- Construction
+- Germany
+- DACH
+- Mobile
 apis: []
+common:
+- type: DomainSecurity
+  url: security/meisterwerk-domain-security.yml
+- type: Website
+  url: https://www.meisterwerk.app
+- type: Pricing
+  url: https://www.meisterwerk.app/preise
+- type: Blog
+  url: https://blog.meisterwerk.app/
+- type: SignUp
+  url: https://eu.meisterwerk.app/register
+- type: Login
+  url: https://eu.meisterwerk.app/login
+- type: Support
+  url: https://www.meisterwerk.app/kontakt
+- type: TermsOfService
+  url: https://www.meisterwerk.app/allgemeine-geschaeftsbedingungen
+- type: PrivacyPolicy
+  url: https://www.meisterwerk.app/datenschutz
+- type: LLMsTxt
+  url: llms/meisterwerk-llms.txt
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+x-enrichment:
+  date: '2026-07-20'
+  status: enriched
+  artifacts_added: 2
+  pass: local-v1
