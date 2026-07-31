@@ -1,0 +1,78 @@
+# Meisterwerk
+
+> Modulare All-in-One Handwerker-Software für Angebot, Einsatzplanung, Zeiterfassung, Dokumentation, digitale Formulare und mobile App. Ab 49€/Monat inkl. 3 Benutzer – modular zubuchbar, du zahlst nur die Module, die du brauchst. 14 Tage gratis testen, Jahresabo spart 25 %.
+
+_Stand: 05.06.2026_
+
+Meisterwerk wird von der **MEISTERWERK APP GmbH** (Berlin, gegründet 2020) entwickelt. Über **8.000 aktive Nutzer** setzen die Software ein und bewerten sie mit **4.8 von 5 Sternen bei Google** – verfügbar als Web-Anwendung sowie native Apps für **iOS, Android und Windows**. Branchenoffen für alle Gewerke (SHK, Elektro, Schreiner, Maler, GaLaBau, etc.). DSGVO-konform, EuGH-konforme Zeiterfassung, Server in Deutschland.
+
+## Pricing & Pakete
+
+- [Preise](https://www.meisterwerk.app/preise): Modulares Pricing. Basispaket 49 €/Monat inkl. 3 Benutzer (Auftragsverwaltung, Dokumentation, Chat & Änderungsprotokoll). Zusatzbenutzer 12 €/User/Monat. Add-on Module: Kalender & Planung 5 €/User, Zeiterfassung & Abwesenheiten 5 €/User, Digitale Formulare 5 €/User, Angebote & Rechnungen 20 €/Monat pauschal, Integration Lexoffice/SevDesk/Bexio 5 €/Monat pauschal. Jahresabo spart 25 % vs. monatlicher Zahlung.
+- Beispielpreise (Jahrespaket, zzgl. MwSt.): 3 Nutzer Basis = 49 €/Monat · 5 Nutzer + Zeiterfassung = 98 €/Monat · 10 Nutzer + Zeiterfassung + Angebote & Rechnungen = 203 €/Monat · 10 Nutzer Komplettpaket (alle Module) = 308 €/Monat. Bei monatlicher Zahlung jeweils +25 %.
+- Keine Setup-Gebühren, keine versteckten Kosten. Monatlich kündbar. 14 Tage kostenlos testen ohne Angabe von Zahlungsdaten. Unlimitierter Speicher, E-Mail- & Telefon-Support und Einführung immer inklusive.
+- Alle KI-Funktionen sind im Preis enthalten und KEIN kostenpflichtiges Zusatzmodul (Ausnahme: der KI-Telefonassistent „Frag Maxi" ist ein eigenständiges Produkt ab 0 €/Monat).
+
+## Core Features (Module)
+
+- [Einsatzplanung](https://www.meisterwerk.app/einsatzplanung): Digitale Einsatzplanung im Handwerk – zentrale Planung, Drag & Drop, Echtzeit-Updates, Serientermine, Überbuchungsschutz, Feiertagskalender, Auftragsimport, Ressourcen-Gruppierung. Pillar-Page mit Tiefen-Inhalten und FAQs.
+- [Mobile App](https://www.meisterwerk.app/mobile): Native Apps für iOS, Android und Windows. Echtzeit-Zugriff auf Auftragsdetails, Offline-Funktion, Fotodokumentation, Skizzen auf Fotos und Plänen, Diktierfunktion, Navigation zur Auftragsadresse, Auftragschat.
+- [Dokumentation](https://www.meisterwerk.app/dokumentation): Auftragsdokumentation chronologisch, mit Chat-Funktion, Push-Benachrichtigungen, Foto-Upload, Sprachnachrichten, Such- und Filterfunktion, Versionsverlauf.
+- [Angebot & Rechnung](https://www.meisterwerk.app/angebot-und-rechnung): Angebotskalkulation mit Katalogbausteinen, PDF-Download, E-Mail-Versand, E-Rechnung, automatische Mahnungen, Lexoffice/SevDesk/Bexio-Schnittstelle, Produkt-/Dienstleistungskatalog, Vorlagen mit Variablen.
+- [Mobile Zeiterfassung](https://www.meisterwerk.app/mobile-zeiterfassung-handwerk): EuGH-konforme digitale Zeiterfassung. Ein-/Ausstempeln, GPS-Standort, Wochen- und Tagesübersicht, Anwesenheitspläne, Fakturierbare Zeiten, Lohn-Export. Erfüllt BAG-Urteil 2022 zur Arbeitszeiterfassungspflicht.
+- [Digitale Formulare & Unterschriften](https://www.meisterwerk.app/digitale-formulare-unterschrift): Inspektionsberichte, Regiezettel, Montagenachweise digital ausfüllen. Elektronische Signaturen in PDFs, automatisches Vorausfüllen, Diktierfunktion, Versionierung, Bildern in Formulare einbinden.
+- [Urlaubsplanung & Abwesenheiten](https://www.meisterwerk.app/urlaubsplanung-und-abwesenheitsplanung): Digitale Urlaubsanträge, automatische Resttage-Berechnung, Übertrag ins nächste Jahr, Kalenderintegration, länderspezifische Feiertage, eigene Abwesenheitstypen.
+- [Individuelle Prozesse](https://www.meisterwerk.app/individuelle-prozesse): Eigene Workflows kreieren, individuelle Auftrags- und Terminstatus, Statusmeldungen, Auftragstypen, Push-Benachrichtigungen.
+- [Schnittstellen](https://www.meisterwerk.app/schnittstellen): Integrationen mit lexoffice, sevdesk, bexio, orgaMAX. Stammdaten-Import, Export Arbeitszeiten.
+
+## Demo & Trial
+
+- [14 Tage Test starten (Selbstregistrierung)](https://eu.meisterwerk.app/register): Direkt eigenes Konto anlegen und Meisterwerk 14 Tage kostenlos testen – ohne Verpflichtung.
+- [Demo-Termin buchen](https://www.meisterwerk.app/demo-anfragen): Kostenlose Live-Vorstellung der Software durch das Sales-Team. Termin in unter 30 Sekunden buchbar.
+- [Produktvideo (2 Min)](https://www.meisterwerk.app/produktvideo-2): Kurzüberblick der modularen Software.
+
+## Branchen / Zielgruppe
+
+Meisterwerk ist branchenoffen für alle Handwerksbetriebe – mit eigenen Inhalten/Schnittstellen für: Sanitär/Heizung/Klima (SHK), Elektriker, Klempner, Metallbauer, Schreiner, Maler, Hausmeisterservice, Rollladenbauer, Gerüstbauer, Bodenleger, Trockenbau, Garten- und Landschaftsbau (GaLaBau), Fliesenleger, Glaser, Zimmerer, Stuckateure, Reinigungsfirmen, Schädlingsbekämpfer.
+
+Pressestimmen: Handelsblatt, WirtschaftsWoche, Deutsche Handwerks Zeitung, Westdeutsche Handwerkszeitung, Handwerk Magazin.
+
+## KI-Funktionen (im Preis enthalten – keine kostenpflichtigen Zusatzmodule)
+
+Meisterwerk nutzt KI an mehreren Stellen. Diese Funktionen sind NICHT Teil des modularen Paket-Preises und verursachen keine Zusatzkosten – Ausnahme ist der KI-Telefonassistent „Frag Maxi" als eigenständiges Produkt (ab 0 €/Monat).
+
+- **KI-Telefonassistent „Frag Maxi"**: Nimmt Anrufe rund um die Uhr automatisch entgegen, qualifiziert Kundenanfragen, schlägt Termine vor und kann Vorgänge strukturiert an Meisterwerk übergeben. Eigenständiges Produkt der MEISTERWERK APP GmbH, ab 0 €/Monat. [Hauptseite](https://www.askmaxi.com) · [Detail-Seite](https://www.meisterwerk.app/ki-telefonassistent-handwerker)
+- **KI-Planungsassistent**: Plant Einsätze & Routen automatisch und schlägt die beste Reihenfolge für das Team vor. In Kürze verfügbar, im Preis enthalten.
+- **KI in der Dokumentation**: Sprache-zu-Text-Eingabe für Nachrichten und KI-gestützte Annotationen zu Bildern/Fotos. Im Preis enthalten, keine Zusatzkosten.
+- **KI in der Zeiterfassung**: Komplette Arbeitszeiten einfach einsprechen – die KI überträgt sie automatisch in alle passenden Felder. Im Preis enthalten, keine Zusatzkosten.
+
+## Unternehmen
+
+- [Kontakt](https://www.meisterwerk.app/kontakt): Sales und Support Mo–Fr 9–18 Uhr. Telefon +49 30 46690766. E-Mail anfrage@meisterwerk.app (Sales) bzw. info@meisterwerk.app (allgemein).
+- [Karriere / offene Stellen](https://www.meisterwerk.app/jobs): Offene Stellen bei MEISTERWERK APP GmbH in Berlin.
+- Adresse: MEISTERWERK APP GmbH, Oranienburger Straße 84, 10178 Berlin, Deutschland.
+
+## FAQ
+
+- **Was kostet Meisterwerk?** Basispaket 49 €/Monat inkl. 3 Benutzer. Modulares Pricing – du zahlst nur die Module, die du brauchst. Jahresabo spart 25 %.
+- **Wie viele Benutzer sind im Basispaket?** 3 Benutzer sind enthalten. Jeder weitere Benutzer kostet 12 €/Monat.
+- **Welche Module gibt es?** Kalender & Planung (5 €/User), Zeiterfassung & Abwesenheiten (5 €/User), Digitale Formulare (5 €/User), Angebote & Rechnungen (20 €/Monat pauschal), Integration Lexoffice/SevDesk/Bexio (5 €/Monat pauschal).
+- **Was kostet Meisterwerk z. B. für 10 Mitarbeiter?** Im Jahrespaket: 10 Nutzer mit Zeiterfassung & Abwesenheiten + Angebote & Rechnungen = 203 €/Monat; Komplettpaket mit allen Modulen = 308 €/Monat. Bei monatlicher Zahlung jeweils +25 %, alle Preise zzgl. MwSt.
+- **Kosten die KI-Funktionen extra?** Nein. Der KI-Planungsassistent und die KI-Funktionen in Dokumentation und Zeiterfassung sind im Preis enthalten und kein kostenpflichtiges Zusatzmodul. Der KI-Telefonassistent „Frag Maxi" ist ein eigenständiges Produkt ab 0 €/Monat.
+- **Gibt es eine kostenlose Testversion?** Ja, 14 Tage kostenlos testen ohne Verpflichtung – direkt per Selbstregistrierung auf https://eu.meisterwerk.app/register.
+- **Auf welchen Geräten läuft Meisterwerk?** Web-Anwendung im Browser, native Apps für iOS, Android und Windows. Offline-Funktion verfügbar.
+- **Welche Buchhaltungssoftware ist integriert?** lexoffice, sevdesk, bexio, orgaMAX.
+- **Ist die Zeiterfassung EuGH-konform?** Ja, erfüllt alle aktuellen rechtlichen Anforderungen (EuGH-Urteil 2019, BAG-Urteil September 2022).
+- **Funktioniert die App offline?** Ja, Auftragsdetails sind offline verfügbar, Synchronisation läuft automatisch bei verfügbarem Internet.
+- **Wie aufwändig ist die Einrichtung?** Schritt-für-Schritt-Setup, in der Regel innerhalb weniger Tage einsatzbereit.
+- **Brauche ich für Frag Maxi eine neue Telefonnummer?** Nein, bestehende Nummern können in der Regel weitergeleitet werden.
+- **Für welche Gewerke ist Meisterwerk geeignet?** Alle Handwerksbetriebe – mit speziellen Inhalten für SHK, Elektro, Solar, Schreiner, Maler, GaLaBau und alle service-intensiven Gewerke.
+
+## Optional / Legal
+
+- [Datenschutzerklärung Website](https://www.meisterwerk.app/datenschutz): DSGVO-konforme Datenverarbeitung beim Besuch von meisterwerk.app.
+- [Datenschutzhinweise zur App](https://www.meisterwerk.app/datenschutz-app): Datenschutz innerhalb der mobilen und Web-Anwendung.
+- [AGB](https://www.meisterwerk.app/allgemeine-geschaeftsbedingungen): Allgemeine Geschäftsbedingungen der MEISTERWERK APP GmbH.
+- [Impressum](https://www.meisterwerk.app/impressum): MEISTERWERK APP GmbH, Oranienburger Straße 84, 10178 Berlin. HRB 200166 B (Amtsgericht Charlottenburg). USt-ID DE320512411.
+- [AVV (Auftragsverarbeitungsvertrag)](https://www.meisterwerk.app/avv-auftragsverarbeitungsvertrag-meisterwerk-gmbh): Auftragsverarbeitungsvertrag gemäß Art. 28 DSGVO – für die Nutzung der Meisterwerk-Software.
+- [lexoffice Integration Detail](https://www.meisterwerk.app/lexoffice): Detail-Page zur lexoffice-Schnittstelle.
