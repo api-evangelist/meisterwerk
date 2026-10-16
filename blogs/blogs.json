@@ -2,6 +2,20 @@
   "repo": "meisterwerk",
   "feeds": [
     {
+      "source": "https://www.meisterwerk.app/blog",
+      "feed_url": "https://www.meisterwerk.app/blog",
+      "title": "",
+      "saved": 0,
+      "method": "none"
+    },
+    {
+      "source": "https://blog.meisterwerk.app/",
+      "feed_url": "https://blog.meisterwerk.app/",
+      "title": "",
+      "saved": 0,
+      "method": "none"
+    },
+    {
       "source": "https://www.meisterwerk.app/preise",
       "feed_url": "https://www.meisterwerk.app/preise",
       "title": "",
@@ -10,5 +24,5 @@
     }
   ],
   "post_count": 0,
-  "fetched": "2026-10-03T12:30:02Z"
+  "fetched": "2026-10-10T13:15:00Z"
 }
